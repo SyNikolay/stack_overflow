@@ -44,7 +44,7 @@ SPA на React + Redux Toolkit: показывает 5 самых популяр
 ## Установка
 
 ```bash
-git clone <URL-репозитория>
+git clone https://github.com/SyNikolay/stack_overflow.git
 cd stack_overflow
 npm install
 ```
